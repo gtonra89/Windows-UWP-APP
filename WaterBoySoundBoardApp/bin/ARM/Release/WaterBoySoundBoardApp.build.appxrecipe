@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GARRET-PC</Machine>
+    <WindowsUser>Garret</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>1193a8c2-3ec6-4ce9-b7a0-97da0871a666</PackageIdentityName>
+    <PackageIdentityPublisher>CN=928FC88D-EBCF-45CF-93EE-02D4981043F6</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\obj\ARM\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\RonBurgendy1\abigdeal.wav">
+      <PackagePath>Assets\Audio\RonBurgendy1\abigdeal.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\RonBurgendy1\attractbears.wav">
+      <PackagePath>Assets\Audio\RonBurgendy1\attractbears.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\RonBurgendy1\beardofzeus.wav">
+      <PackagePath>Assets\Audio\RonBurgendy1\beardofzeus.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\RonBurgendy1\glasscase.wav">
+      <PackagePath>Assets\Audio\RonBurgendy1\glasscase.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\RonBurgendy2\howgoodilook.wav">
+      <PackagePath>Assets\Audio\RonBurgendy2\howgoodilook.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\RonBurgendy2\ilovescotch.wav">
+      <PackagePath>Assets\Audio\RonBurgendy2\ilovescotch.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\RonBurgendy2\lookatme.wav">
+      <PackagePath>Assets\Audio\RonBurgendy2\lookatme.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\RonBurgendy2\piratehooker.wav">
+      <PackagePath>Assets\Audio\RonBurgendy2\piratehooker.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\RonBurgendy3\stayclassy.wav">
+      <PackagePath>Assets\Audio\RonBurgendy3\stayclassy.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\RonBurgendy3\stoppingby.wav">
+      <PackagePath>Assets\Audio\RonBurgendy3\stoppingby.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\RonBurgendy3\veryimportant.wav">
+      <PackagePath>Assets\Audio\RonBurgendy3\veryimportant.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\RonBurgendy3\wantedfor.wav">
+      <PackagePath>Assets\Audio\RonBurgendy3\wantedfor.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\RonBurgendy4\wastheballs.wav">
+      <PackagePath>Assets\Audio\RonBurgendy4\wastheballs.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\RonBurgendy4\whatcologne.wav">
+      <PackagePath>Assets\Audio\RonBurgendy4\whatcologne.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\RonBurgendy4\whoreisland.wav">
+      <PackagePath>Assets\Audio\RonBurgendy4\whoreisland.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\RonBurgendy4\yourattention.wav">
+      <PackagePath>Assets\Audio\RonBurgendy4\yourattention.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\RonBurgendy4\yourdoctor.wav">
+      <PackagePath>Assets\Audio\RonBurgendy4\yourdoctor.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\WaterBoy1\benfranklin.wav">
+      <PackagePath>Assets\Audio\WaterBoy1\benfranklin.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\WaterBoy1\colonelsanders.wav">
+      <PackagePath>Assets\Audio\WaterBoy1\colonelsanders.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\WaterBoy1\devil.wav">
+      <PackagePath>Assets\Audio\WaterBoy1\devil.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\WaterBoy1\dontsmokecrack.wav">
+      <PackagePath>Assets\Audio\WaterBoy1\dontsmokecrack.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\WaterBoy1\gatorade.wav">
+      <PackagePath>Assets\Audio\WaterBoy1\gatorade.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\WaterBoy2\choochootrain.wav">
+      <PackagePath>Assets\Audio\WaterBoy2\choochootrain.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\WaterBoy2\herboobies.wav">
+      <PackagePath>Assets\Audio\WaterBoy2\herboobies.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\WaterBoy2\holdthescotch.wav">
+      <PackagePath>Assets\Audio\WaterBoy2\holdthescotch.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\WaterBoy2\iam31yearsold.wav">
+      <PackagePath>Assets\Audio\WaterBoy2\iam31yearsold.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\WaterBoy2\imavirgo.wav">
+      <PackagePath>Assets\Audio\WaterBoy2\imavirgo.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\WaterBoy3\imthewaterboy.wav">
+      <PackagePath>Assets\Audio\WaterBoy3\imthewaterboy.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\WaterBoy3\joemontana.wav">
+      <PackagePath>Assets\Audio\WaterBoy3\joemontana.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\WaterBoy3\mamasaid.wav">
+      <PackagePath>Assets\Audio\WaterBoy3\mamasaid.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\WaterBoy3\maybethedevil.wav">
+      <PackagePath>Assets\Audio\WaterBoy3\maybethedevil.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\WaterBoy4\pleasedonthurtme.wav">
+      <PackagePath>Assets\Audio\WaterBoy4\pleasedonthurtme.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\WaterBoy4\runsprints.wav">
+      <PackagePath>Assets\Audio\WaterBoy4\runsprints.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\WaterBoy4\wakeherassup.wav">
+      <PackagePath>Assets\Audio\WaterBoy4\wakeherassup.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Audio\WaterBoy4\yourefired.wav">
+      <PackagePath>Assets\Audio\WaterBoy4\yourefired.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\BadgeLogo.scale-200.png">
+      <PackagePath>Assets\BadgeLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Icons\RonBurgendy1\RonBurgendy1.png">
+      <PackagePath>Assets\Icons\RonBurgendy1\RonBurgendy1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Icons\RonBurgendy2\RonBurgendy2.png">
+      <PackagePath>Assets\Icons\RonBurgendy2\RonBurgendy2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Icons\RonBurgendy3\RonBurgendy3.png">
+      <PackagePath>Assets\Icons\RonBurgendy3\RonBurgendy3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Icons\RonBurgendy4\RonBurgendy4.png">
+      <PackagePath>Assets\Icons\RonBurgendy4\RonBurgendy4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Icons\WaterBoy1\waterboy1.png">
+      <PackagePath>Assets\Icons\WaterBoy1\waterboy1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Icons\WaterBoy2\waterboy2.png">
+      <PackagePath>Assets\Icons\WaterBoy2\waterboy2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Icons\WaterBoy3\waterboy3.png">
+      <PackagePath>Assets\Icons\WaterBoy3\waterboy3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Icons\WaterBoy4\waterboy4.png">
+      <PackagePath>Assets\Icons\WaterBoy4\waterboy4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\PackageAppXManifest\1240x1240.png">
+      <PackagePath>Assets\PackageAppXManifest\1240x1240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\PackageAppXManifest\1240x600.png">
+      <PackagePath>Assets\PackageAppXManifest\1240x600.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\PackageAppXManifest\24x24-large.png">
+      <PackagePath>Assets\PackageAppXManifest\24x24-large.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\PackageAppXManifest\24x24.png">
+      <PackagePath>Assets\PackageAppXManifest\24x24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\PackageAppXManifest\300x300.png">
+      <PackagePath>Assets\PackageAppXManifest\300x300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\PackageAppXManifest\310x310.scale-100.png">
+      <PackagePath>Assets\PackageAppXManifest\310x310.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\PackageAppXManifest\50x50-large.png">
+      <PackagePath>Assets\PackageAppXManifest\50x50-large.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\PackageAppXManifest\50x50.png">
+      <PackagePath>Assets\PackageAppXManifest\50x50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\PackageAppXManifest\620x300.png">
+      <PackagePath>Assets\PackageAppXManifest\620x300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\PackageAppXManifest\71x71-large.png">
+      <PackagePath>Assets\PackageAppXManifest\71x71-large.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\PackageAppXManifest\71x71.scale-100.png">
+      <PackagePath>Assets\PackageAppXManifest\71x71.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\PackageAppXManifest\88x88-large.png">
+      <PackagePath>Assets\PackageAppXManifest\88x88-large.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\PackageAppXManifest\88x88.png">
+      <PackagePath>Assets\PackageAppXManifest\88x88.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\PackageAppXManifest\badge.scale-200.png">
+      <PackagePath>Assets\PackageAppXManifest\badge.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\PackageAppXManifest\BadgeLogo.scale-200.png">
+      <PackagePath>Assets\PackageAppXManifest\BadgeLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\WaterBoySoundBoardApp.dll">
+      <PackagePath>WaterBoySoundBoardApp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\WaterBoySoundBoardApp.exe">
+      <PackagePath>WaterBoySoundBoardApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\ilc\WaterBoySoundBoardApp.pdb">
+      <PackagePath>WaterBoySoundBoardApp.pdb</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\arm\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\x64\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\x86\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\ARM\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\x64\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\x86\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

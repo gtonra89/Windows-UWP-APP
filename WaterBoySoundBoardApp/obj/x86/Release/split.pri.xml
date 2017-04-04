@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="42324GarretTonra.TonrasSoundBoardApp" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WaterBoySoundBoardApp.xr.xml" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/WaterBoySoundBoardApp.xr.xml">
+				<Candidate type="Path">
+					<Value>WaterBoySoundBoardApp.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/BadgeLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\BadgeLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Audio">
+					<ResourceMapSubtree name="RonBurgendy1">
+						<NamedResource name="abigdeal.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/RonBurgendy1/abigdeal.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\RonBurgendy1\abigdeal.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="attractbears.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/RonBurgendy1/attractbears.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\RonBurgendy1\attractbears.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="beardofzeus.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/RonBurgendy1/beardofzeus.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\RonBurgendy1\beardofzeus.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="glasscase.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/RonBurgendy1/glasscase.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\RonBurgendy1\glasscase.wav</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="RonBurgendy2">
+						<NamedResource name="howgoodilook.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/RonBurgendy2/howgoodilook.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\RonBurgendy2\howgoodilook.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ilovescotch.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/RonBurgendy2/ilovescotch.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\RonBurgendy2\ilovescotch.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="lookatme.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/RonBurgendy2/lookatme.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\RonBurgendy2\lookatme.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="piratehooker.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/RonBurgendy2/piratehooker.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\RonBurgendy2\piratehooker.wav</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="RonBurgendy3">
+						<NamedResource name="stayclassy.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/RonBurgendy3/stayclassy.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\RonBurgendy3\stayclassy.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="stoppingby.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/RonBurgendy3/stoppingby.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\RonBurgendy3\stoppingby.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="veryimportant.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/RonBurgendy3/veryimportant.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\RonBurgendy3\veryimportant.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="wantedfor.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/RonBurgendy3/wantedfor.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\RonBurgendy3\wantedfor.wav</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="RonBurgendy4">
+						<NamedResource name="wastheballs.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/RonBurgendy4/wastheballs.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\RonBurgendy4\wastheballs.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="whatcologne.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/RonBurgendy4/whatcologne.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\RonBurgendy4\whatcologne.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="whoreisland.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/RonBurgendy4/whoreisland.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\RonBurgendy4\whoreisland.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="yourattention.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/RonBurgendy4/yourattention.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\RonBurgendy4\yourattention.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="yourdoctor.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/RonBurgendy4/yourdoctor.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\RonBurgendy4\yourdoctor.wav</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="WaterBoy1">
+						<NamedResource name="benfranklin.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/WaterBoy1/benfranklin.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\WaterBoy1\benfranklin.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="colonelsanders.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/WaterBoy1/colonelsanders.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\WaterBoy1\colonelsanders.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="devil.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/WaterBoy1/devil.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\WaterBoy1\devil.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="dontsmokecrack.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/WaterBoy1/dontsmokecrack.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\WaterBoy1\dontsmokecrack.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="gatorade.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/WaterBoy1/gatorade.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\WaterBoy1\gatorade.wav</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="WaterBoy2">
+						<NamedResource name="choochootrain.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/WaterBoy2/choochootrain.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\WaterBoy2\choochootrain.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="herboobies.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/WaterBoy2/herboobies.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\WaterBoy2\herboobies.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="holdthescotch.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/WaterBoy2/holdthescotch.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\WaterBoy2\holdthescotch.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="iam31yearsold.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/WaterBoy2/iam31yearsold.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\WaterBoy2\iam31yearsold.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="imavirgo.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/WaterBoy2/imavirgo.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\WaterBoy2\imavirgo.wav</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="WaterBoy3">
+						<NamedResource name="imthewaterboy.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/WaterBoy3/imthewaterboy.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\WaterBoy3\imthewaterboy.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="joemontana.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/WaterBoy3/joemontana.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\WaterBoy3\joemontana.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="mamasaid.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/WaterBoy3/mamasaid.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\WaterBoy3\mamasaid.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="maybethedevil.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/WaterBoy3/maybethedevil.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\WaterBoy3\maybethedevil.wav</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="WaterBoy4">
+						<NamedResource name="pleasedonthurtme.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/WaterBoy4/pleasedonthurtme.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\WaterBoy4\pleasedonthurtme.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="runsprints.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/WaterBoy4/runsprints.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\WaterBoy4\runsprints.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="wakeherassup.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/WaterBoy4/wakeherassup.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\WaterBoy4\wakeherassup.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="yourefired.wav" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Audio/WaterBoy4/yourefired.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\WaterBoy4\yourefired.wav</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Icons">
+					<ResourceMapSubtree name="RonBurgendy1">
+						<NamedResource name="RonBurgendy1.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Icons/RonBurgendy1/RonBurgendy1.png">
+							<Candidate type="Path">
+								<Value>Assets\Icons\RonBurgendy1\RonBurgendy1.png</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="RonBurgendy2">
+						<NamedResource name="RonBurgendy2.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Icons/RonBurgendy2/RonBurgendy2.png">
+							<Candidate type="Path">
+								<Value>Assets\Icons\RonBurgendy2\RonBurgendy2.png</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="RonBurgendy3">
+						<NamedResource name="RonBurgendy3.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Icons/RonBurgendy3/RonBurgendy3.png">
+							<Candidate type="Path">
+								<Value>Assets\Icons\RonBurgendy3\RonBurgendy3.png</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="RonBurgendy4">
+						<NamedResource name="RonBurgendy4.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Icons/RonBurgendy4/RonBurgendy4.png">
+							<Candidate type="Path">
+								<Value>Assets\Icons\RonBurgendy4\RonBurgendy4.png</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="WaterBoy1">
+						<NamedResource name="waterboy1.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Icons/WaterBoy1/waterboy1.png">
+							<Candidate type="Path">
+								<Value>Assets\Icons\WaterBoy1\waterboy1.png</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="WaterBoy2">
+						<NamedResource name="waterboy2.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Icons/WaterBoy2/waterboy2.png">
+							<Candidate type="Path">
+								<Value>Assets\Icons\WaterBoy2\waterboy2.png</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="WaterBoy3">
+						<NamedResource name="waterboy3.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Icons/WaterBoy3/waterboy3.png">
+							<Candidate type="Path">
+								<Value>Assets\Icons\WaterBoy3\waterboy3.png</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="WaterBoy4">
+						<NamedResource name="waterboy4.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/Icons/WaterBoy4/waterboy4.png">
+							<Candidate type="Path">
+								<Value>Assets\Icons\WaterBoy4\waterboy4.png</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="PackageAppXManifest">
+					<NamedResource name="1240x1240.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/PackageAppXManifest/1240x1240.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\1240x1240.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="1240x600.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/PackageAppXManifest/1240x600.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\1240x600.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="24x24-large.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/PackageAppXManifest/24x24-large.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\24x24-large.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="24x24.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/PackageAppXManifest/24x24.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\24x24.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="300x300.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/PackageAppXManifest/300x300.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\300x300.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="310x310.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/PackageAppXManifest/310x310.png"/>
+					<NamedResource name="50x50-large.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/PackageAppXManifest/50x50-large.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\50x50-large.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="50x50.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/PackageAppXManifest/50x50.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\50x50.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="620x300.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/PackageAppXManifest/620x300.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\620x300.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="71x71-large.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/PackageAppXManifest/71x71-large.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\71x71-large.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="71x71.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/PackageAppXManifest/71x71.png"/>
+					<NamedResource name="88x88-large.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/PackageAppXManifest/88x88-large.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\88x88-large.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="88x88.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/PackageAppXManifest/88x88.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\88x88.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="badge.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/PackageAppXManifest/badge.png">
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\PackageAppXManifest\badge.scale-200.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="BadgeLogo.png" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Assets/PackageAppXManifest/BadgeLogo.png">
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\PackageAppXManifest\BadgeLogo.scale-200.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://42324GarretTonra.TonrasSoundBoardApp/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

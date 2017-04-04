@@ -1,0 +1,3 @@
+MainPackage=C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\ARM\Release\Upload\WaterBoySoundBoardApp_1.1.9.0_ARM.appx
+SymbolPackage=C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\AppPackages\WaterBoySoundBoardApp_1.1.9.0\WaterBoySoundBoardApp_1.1.9.0_ARM.appxsym
+ResourcePack=C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\_scale-100.appx

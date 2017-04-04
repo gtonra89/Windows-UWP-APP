@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\bin\x64\Release\Upload\WaterBoySoundBoardApp_1.1.9.0_x64.appx
+SymbolPackage=C:\Users\Garret\documents\visual studio 2015\Projects\WaterBoySoundBoardApp\WaterBoySoundBoardApp\AppPackages\WaterBoySoundBoardApp_1.1.9.0\WaterBoySoundBoardApp_1.1.9.0_x64.appxsym
