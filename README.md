@@ -1,5 +1,4 @@
-# Windows-UWP-APP
-<h1>3rd year Mobile applications Project built using c# and visual studio 2015 </h1>
+<h1>Third Year Mobile Applications Development Project built using c# and visual studio 2015 </h1>
 <br> 
 <h2>SoundBoard App</h2>
 <br>
