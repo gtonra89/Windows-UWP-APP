@@ -27,7 +27,8 @@ Your Apps must be submitted for certification on the Windows Store in order to b
 <br>The soundBoard App is very self explanatory to use the you can do it by the following way:
 <br>Navigate to the windows Store and Download the app on your Tablet,Laptop Desktop or Mobile Device
 <br>Public link for UWP APP on windows store :<br>link--> https://www.microsoft.com/en-us/store/p/tonras-soundboard-app/9p5n00wtg01m
-<br><img src="https://cloud.githubusercontent.com/assets/12545290/24752693/f767c020-1ac6-11e7-82e9-18bf41483152.png">Download App</img>
+<br><img src="https://cloud.githubusercontent.com/assets/12545290/24752693/f767c020-1ac6-11e7-82e9-18bf41483152.png"></img>
+<br><img src="https://cloud.githubusercontent.com/assets/12545290/24752931/f51fea58-1ac7-11e7-8218-28270ed86559.png"></img>
 <h4>About App</h4>
 <p><i>The App that I chose to create using Windows UWP is a simple Soundboard App. 
 The reason I chose this type App was it was relatively not to complex to implement and was something I had been thinking of doing on a different programming language in my spare time.</i></p>
