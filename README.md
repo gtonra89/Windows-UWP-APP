@@ -29,7 +29,7 @@ Your Apps must be submitted for certification on the Windows Store in order to b
 <br>1.Download the full project as a zip via the github account :
 <br>Public link for UWP APP on Github : link--> https://github.com/gtonra89/Windows-UWP-APP  
 <br>
-<br>2.Navigate to the windows Store and Download the app on your tablet,Laptop Desktop or Mobile Device
+<br>2.Navigate to the windows Store and Download the app on your Tablet,Laptop Desktop or Mobile Device
 <br>Public link for UWP APP on windows store :<br>link--> https://www.microsoft.com/en-us/store/p/tonras-soundboard-app/9p5n00wtg01m
 <br>
 <h4>About App</h4>
